@@ -4,7 +4,6 @@ Projeto desenvolvido para a disciplina Processos de Software na Unisinos. Mapeei
 
 ## Fluxograma
 ![Fluxograma do Processo de Recebimento de Compras](fluxograma.png)
-*(Nota: Substitua "fluxograma.png" pelo nome da imagem que você uploadar.)*
 
 ## Detalhes
 - **Ferramenta**: Draw.io
